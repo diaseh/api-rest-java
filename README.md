@@ -16,7 +16,7 @@ usando o Bean Validation. Depois, aqui será reforçado a utilização do concei
 ordenação das informações que a API vai devolver.
 
 Tecnologias aplicadas:
-    - Spring Boot 3
+    - Spring Boot 3 -> https://start.spring.io/
     - Java 17
     - Lombok
     - MySQL/ Flyway
